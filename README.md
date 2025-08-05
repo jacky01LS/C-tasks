@@ -1,5 +1,5 @@
 # Harvard CS50 course C projects
-This repository contains some C programs made following the CS50 course. These are command-line programs run that inside the terminal. 
+This repository contains some C programs made following the CS50 course. These are command-line programs that run inside the terminal. 
 
 ## Library requirements
 To run these programs, the CS50 library is required to be installed on the device. 
