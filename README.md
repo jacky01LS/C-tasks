@@ -2,7 +2,7 @@
 This repository contains some C programs made following the CS50 course. These are command-line programs that run inside the terminal. 
 
 ### Included projects
-Ceasar - uses caesar cipher to encrypt inputted plaintext by shifting ASCII value according to inputted number. 
+Caesar - uses caesar cipher to encrypt inputted plaintext by shifting ASCII value according to inputted number. 
 
 Cash - calculates the minimum amount of coins needed to provide the cash/change of the number value inputted by user. 
 
