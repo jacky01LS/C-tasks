@@ -8,10 +8,10 @@ int main(void)
 {
     int a = 5;
     int b = 6;
-    int x = 2
-    int y = 8
-    int c = 5
-    int d = 6
+    int x = 2;
+    int y = 8;
+    int c = 5;
+    int d = 6;
 
     int sum = add(a, b);
     int sum = add(x, y);
